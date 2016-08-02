@@ -1,0 +1,14 @@
+{
+  "name": "photogrid",
+  "version": "1.0.0",
+  "description": "Javascript Lightbox photogrid",
+  "main": "script.js",
+  "scripts": {
+    "start":"node script.js"
+  },
+  "keywords": [
+    "lightbox"
+  ],
+  "author": "Jayadev Akkiraju",
+  "license": "ISC"
+}
